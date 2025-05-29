@@ -1,0 +1,2 @@
+let palabra;
+let letra;
